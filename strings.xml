@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusGain</string>
+    <string name="accessibility_service_description">Blocks distracting apps and filters YouTube to allow only your chosen study channels.</string>
+</resources>
